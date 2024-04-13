@@ -1,0 +1,20 @@
+.project-card {
+  display: flex;
+  flex-direction: column;
+  height: 130px;
+  width: 110;
+  border: none;
+  border-radius: 10px;
+  margin: 15px;
+}
+.project-img {
+  height: 70%;
+  width: 100%;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+}
